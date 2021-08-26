@@ -2,9 +2,9 @@
   "name": "ProblemSolving",
   "version": "1.0.0",
   "description": "",
-  "main": "038.JumpingontheClouds.js",
+  "main": "039.FindDigits.js",
   "scripts": {
-    "start": "nodemon 038.JumpingontheClouds.js"
+    "start": "nodemon 039.FindDigits.js"
   },
   "keywords": [],
   "author": "",
