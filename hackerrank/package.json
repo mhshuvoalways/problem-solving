@@ -4,7 +4,7 @@
   "description": "",
   "main": "039.FindDigits.js",
   "scripts": {
-    "start": "nodemon 039.FindDigits.js"
+    "start": "nodemon 021.SalesbyMatch.js"
   },
   "keywords": [],
   "author": "",
